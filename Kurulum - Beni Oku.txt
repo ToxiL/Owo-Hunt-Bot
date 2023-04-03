@@ -1,0 +1,14 @@
+Kurulum detayları;
+
+1-) NodeJS kurmamız gerekiyor, https://nodejs.org/en/
+
+2-) Node js kurulduktan sonra, botumuzu rardan çıkarıyoruz ardından databases klasorune giriyoruz.
+Not defteri veya havalı olsun diye visual studio ile açabilirsiniz. Hiçbir şey fark etmez.
+Ardından Data base > db.json dosyasına girip gerekli alanları doldurun.
+
+
+3-) Ayarladıgımız idler sayesinde botu yönetebilecegiz artık, !yardım ile komutlara bakabilirsiniz.
+
+Botu ayarladıgınız kanal dışında aktif duruma ya da pasif hale getiremezsiniz.
+
+MyStore - ToxiL Software
